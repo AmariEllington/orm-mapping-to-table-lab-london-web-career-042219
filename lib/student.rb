@@ -30,4 +30,7 @@ class Student
     FROM students")[0][0]
     end
 
+    def
+
+    end
 end
